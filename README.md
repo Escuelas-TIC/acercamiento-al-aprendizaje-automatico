@@ -1,1 +1,2 @@
-# acercamiento-al-aprendizaje-automatico
+# Un primer acercamiento al aprendizaje automático y sus usos
+Las actividades aquí propuestas están orientadas a estudiantes del 2do ciclo de escuelas secundarias y la intención es acercar a las y los estudiantes a uno de los campos de la Inteligencia Artificial como es el “Aprendizaje automático”. Donde se profundiza estos dos últimos conceptos mencionados anteriormente mediante la creación, entrenamiento y prueba de modelos.
